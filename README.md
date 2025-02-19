@@ -59,4 +59,6 @@ do not have any demand for the products, along with Russia. A new strategy targe
 areas has the potential to boost sales revenues and profitability.
 
 Tools used: Advanced excel to scrub only the required datas and Power Bi for visualizing the outcomes to finalize the desired analysis.
+![Screenshot 2025-02-20 003102](https://github.com/user-attachments/assets/7e898b91-35e4-4c30-985b-41f90902da1b)
+
 
